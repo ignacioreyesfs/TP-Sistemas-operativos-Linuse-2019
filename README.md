@@ -6,9 +6,11 @@ Un proyecto que consta con tres modulos centralizados que simulan algunos de los
 
 - Modulo de Filesystem
 - Modulo de Memoria
-- Modulo de Planificacion de procesos
+- Modulo de Planificacion de procesos (kernel)
 
 ## Para testearlo:
 
 - Clonar el repositorio
 - Ejecutar el deployGeneral
+- Configurar las ips de los archivos configs
+- Ejecutar tests
